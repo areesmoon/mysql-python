@@ -1,7 +1,7 @@
 # mysql-python
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/areesmoon/mysql-python)](https://hub.docker.com/r/areesmoon/mysql-python)  
-[![Docker Image Version](https://img.shields.io/docker/v/areesmoon/mysql-python)](https://hub.docker.com/r/areesmoon/mysql-python)  
+[![Docker Image Version](https://img.shields.io/docker/v/areesmoon/mysql-python?label=version)](https://hub.docker.com/r/areesmoon/mysql-python/tags)  
 
 MySQL 8 combined with Python 3 in a lightweight, easy-to-use Docker image. Perfect for development and testing applications that require both MySQL database and Python scripting.
 
